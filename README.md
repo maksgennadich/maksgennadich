@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @maksgennadich
-- 👀 I’m interested in debian, ubuntu, sql, powershell
-- 🌱 I’m currently learning linux, sql, powershell
-- 💞️ I’m looking to collaborate on system administration
-- 📫 How to reach me @takatamoto (Telegram)
+- 👀 I’m interested in debian, ubuntu, sql, powershell, astra, Ansibe, Terraform
+- 🌱 I’m currently learning linux, sql, powershell, postgreSQL
+- 💞️ I’m looking to collaborate on DevOps
+- 📫 How to reach me @maksgennadich (Telegram)
 
 <!---
 maksgennadich/maksgennadich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
